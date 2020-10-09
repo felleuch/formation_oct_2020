@@ -1,0 +1,13 @@
+2020-10-09 10:21:37,490 [main] INFO  (LivreDAOImpl.java:22) - Tentative de connection a la base de donnee
+  2020-10-09 10:21:38,158 [main] INFO  (LivreDAOImpl.java:26) - Connexion a jdbc:mysql://localhost:3306/biblio avec succès
+  2020-10-09 10:21:38,159 [main] INFO  (LivreDAOImpl.java:39) - DEBUT getAllLivres()
+  2020-10-09 10:21:38,168 [main] INFO  (LivreDAOImpl.java:58) - recuperation de 1 livres
+  2020-10-09 10:32:41,848 [main] INFO  (LivreDAOImpl.java:22) - Tentative de connection a la base de donnee
+  2020-10-09 10:32:42,552 [main] INFO  (LivreDAOImpl.java:26) - Connexion a jdbc:mysql://localhost:3306/biblio avec succès
+  2020-10-09 10:33:03,776 [main] INFO  (LivreDAOImpl.java:39) - DEBUT getAllLivres()
+  2020-10-09 10:33:03,779 [main] INFO  (LivreDAOImpl.java:58) - recuperation de 2 livres
+  2020-10-09 10:34:18,168 [main] INFO  (LivreDAOImpl.java:22) - Tentative de connection a la base de donnee
+  2020-10-09 10:34:18,874 [main] INFO  (LivreDAOImpl.java:26) - Connexion a jdbc:mysql://localhost:3306/biblio avec succès
+  2020-10-09 10:34:39,949 [main] INFO  (LivreDAOImpl.java:39) - DEBUT getAllLivres()
+  2020-10-09 10:34:39,951 [main] INFO  (LivreDAOImpl.java:58) - recuperation de 3 livres
+  

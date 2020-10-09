@@ -1,0 +1,2 @@
+Livre{titre='T02', categorie='C02', isbn='988', nomAuteur='A02', prenomAuteur='PR02', code='A0PRC088'}Livre{titre='Le myst�re de la chambre jaune', categorie='Leroux', isbn='2253005495', nomAuteur='Gaston', prenomAuteur='Policier', code='GaPoLe95'}Livre{titre='T01', categorie='C02', isbn='988', nomAuteur='A02', prenomAuteur='PR02', code='A0PRC088'}
+Livre{titre='Le myst�re de la chambre jaune', categorie='Leroux', isbn='2253005495', nomAuteur='Gaston', prenomAuteur='Policier', code='GaPoLe95'}
